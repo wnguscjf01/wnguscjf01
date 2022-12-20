@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=ChurriesJubilee&theme=1)
-
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
-
-<!--
+[![CodeForces Profile](https://cf.leed.at?id={ChurriesJubilee})](https://codeforces.com/profile/{ChurriesJubilee})
 **wnguscjf01/wnguscjf01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
