@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ChurriesJubilee](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle})
+[![CodeForces Profile](https://cf.leed.at?id={ChurriesJubilee})](https://codeforces.com/profile/{ChurriesJubilee})
 
 <!--
 **wnguscjf01/wnguscjf01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
